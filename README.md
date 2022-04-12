@@ -1,6 +1,6 @@
 # Change Color Box
 
-[Link al proyecto](https://pokeapi-opal.vercel.app/)
+[Link al proyecto](https://color-box-zeta.vercel.app/)
 
 - Challenge youtuber "Dave Gray"
 ## Notas 📢
